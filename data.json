@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": "3",
+      "name": "Priya",
+      "age": 21,
+      "course": "JavaScript"
+    },
+    {
+      "id": "RXNIpq_Wd8Q",
+      "name": "swapna",
+      "age": 23,
+      "course": "MERN"
+    },
+    {
+      "id": "FQEwEsND1nc",
+      "name": "manusha",
+      "age": 27,
+      "course": "AI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
